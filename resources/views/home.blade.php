@@ -24,14 +24,17 @@
 
     {{-- ⬇︎ここからcontent --}}
         <div class="content">
-           <div class="content_title"></div>
+           <div class="content_title">
+               さまざまなアイデアをお持ちの方<br>
+               斬新なアイデアをお探しの方<br>
+               ここなら全てが見つかります<br>
+            </div>
         </div>
     {{-- ⬆︎ここまでcontent --}}
 
     {{-- ⬇︎ここからfotter --}}
         <div class="footer">
-            <div class="fotter_text"></div>
-            <div class="fotter_menu"></div>
+            <div class="fotter_copyright">© 2020 SyotaKondo</div>
         </div>
     {{-- ⬆︎ここまでfotter --}}
 

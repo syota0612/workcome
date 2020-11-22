@@ -1,0 +1,14 @@
+.content{
+    height: $h_content;
+    background-image: url(../image/idea.png);
+    background-size: cover;
+    opacity: 0.7;
+
+    &_title{
+        font-size: 20px;
+        text-align: center;
+        line-height: 150px;
+        font-weight: bold;
+        opacity: 1.0;
+    }
+}

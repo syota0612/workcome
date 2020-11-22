@@ -1,0 +1,9 @@
+.footer{
+    height: $h_footer;
+    display: flex;
+    justify-content: center;
+
+    &_copyright{
+        font-size: 12px;
+    }
+}
