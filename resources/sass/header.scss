@@ -1,0 +1,25 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: $h_header;
+    line-height: $h_header;
+    text-align: center;
+
+    &_title{
+        font-weight: bold;
+        font-size: $title_fs;
+    }
+
+    &_menu{
+        width: $h_menu_width;
+        ul{
+            display: flex;
+            justify-content: space-between;
+            li{
+                text-decoration-line: underline;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,14 @@
+// 色
+$main_color: red;
+$sub_color: blue;
+
+// 文字サイズ
+$title_fs: 24px;
+
+// 高さ
+$h_header: 100px;
+$h_footer: 30px;
+// $h_content: calc( - $h_header - $h_footer);
+$h_content: calc(100vh - 100px - 30px);
+// 横幅
+$h_menu_width: 400px;

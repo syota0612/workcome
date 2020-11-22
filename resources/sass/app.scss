@@ -1,4 +1,20 @@
 // Fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
 
-@import 'header'
+// リセットCSS
+@import url('http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css');
+
+// 共通CSS変数
+@import 'common';
+
+// 全共通CSS
+@import 'layouts';
+
+// 共通ヘッダー
+@import 'header';
+
+// トップメイン
+@import 'content';
+
+// 共通フッター
+@import 'footer';
